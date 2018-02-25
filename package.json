@@ -1,0 +1,26 @@
+{
+  "name": "instagram-cli",
+  "version": "0.0.1",
+  "description": "Command Line Interface for Instagram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethamvishy/instagram-cli.git"
+  },
+  "keywords": [
+    "instagram",
+    "cli",
+    "social",
+    "media",
+    "ig"
+  ],
+  "author": "Preetham Viswanathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/preethamvishy/instagram-cli/issues"
+  },
+  "homepage": "https://github.com/preethamvishy/instagram-cli#readme"
+}
